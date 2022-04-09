@@ -1,1 +1,1 @@
-# FunixReactjsAssignment
+# Lab 02.2
